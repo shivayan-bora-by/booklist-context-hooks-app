@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+This is a simple react app for maintaining Book List using local storage. This uses Contexts, Hooks and Reducers and created by following [Net Ninja's Tutorial](https://www.youtube.com/watch?v=v1s_rbZbqQI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=16)
+
 ## Available Scripts
 
 In the project directory, you can run:
